@@ -1,0 +1,15 @@
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.exe
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.deps.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.runtimeconfig.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfo.cs
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\refint\ClassMetotDemo.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.genruntimeconfig.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\ClassMetotDemo\obj\Debug\net6.0\ref\ClassMetotDemo.dll

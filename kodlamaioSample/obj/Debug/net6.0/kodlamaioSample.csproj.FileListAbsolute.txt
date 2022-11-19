@@ -1,0 +1,15 @@
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\bin\Debug\net6.0\kodlamaioSample.exe
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\bin\Debug\net6.0\kodlamaioSample.deps.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\bin\Debug\net6.0\kodlamaioSample.runtimeconfig.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\bin\Debug\net6.0\kodlamaioSample.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\bin\Debug\net6.0\kodlamaioSample.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\kodlamaioSample.csproj.AssemblyReference.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\kodlamaioSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\kodlamaioSample.AssemblyInfoInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\kodlamaioSample.AssemblyInfo.cs
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\kodlamaioSample.csproj.CoreCompileInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\kodlamaioSample.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\refint\kodlamaioSample.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\kodlamaioSample.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\kodlamaioSample.genruntimeconfig.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\kodlamaioSample\obj\Debug\net6.0\ref\kodlamaioSample.dll
