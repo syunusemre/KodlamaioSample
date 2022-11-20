@@ -1,0 +1,15 @@
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericDictionary.exe
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericDictionary.deps.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericDictionary.runtimeconfig.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericDictionary.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericDictionary.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericDictionary.csproj.AssemblyReference.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericDictionary.AssemblyInfoInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericDictionary.AssemblyInfo.cs
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericDictionary.csproj.CoreCompileInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericDictionary.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\refint\GenericDictionary.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericDictionary.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericDictionary.genruntimeconfig.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\ref\GenericDictionary.dll
