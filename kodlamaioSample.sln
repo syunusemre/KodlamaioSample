@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kodlamaioSample", "kodlamaioSample\kodlamaioSample.csproj", "{E2244030-932B-4A5A-809E-049D81038FB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kodlamaioSample", "kodlamaioSample\kodlamaioSample.csproj", "{E2244030-932B-4A5A-809E-049D81038FB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{E93A6034-60EC-491B-B729-60A05650652C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{E93A6034-60EC-491B-B729-60A05650652C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericIntro", "GenericIntro\GenericIntro.csproj", "{D978D612-3F3F-4870-B446-5FF602EF2C01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjects", "GameProjects\GameProjects.csproj", "{897219CC-689F-4D66-8CC5-AAA382455794}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Konu Anlatımı", "Konu Anlatımı", "{EADB5A84-9060-4677-AA94-596ABD58BE82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{4ADAE4CF-5060-4438-8569-89076BA9253A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +29,24 @@ Global
 		{E93A6034-60EC-491B-B729-60A05650652C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E93A6034-60EC-491B-B729-60A05650652C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E93A6034-60EC-491B-B729-60A05650652C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D978D612-3F3F-4870-B446-5FF602EF2C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D978D612-3F3F-4870-B446-5FF602EF2C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D978D612-3F3F-4870-B446-5FF602EF2C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D978D612-3F3F-4870-B446-5FF602EF2C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897219CC-689F-4D66-8CC5-AAA382455794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897219CC-689F-4D66-8CC5-AAA382455794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897219CC-689F-4D66-8CC5-AAA382455794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897219CC-689F-4D66-8CC5-AAA382455794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADAE4CF-5060-4438-8569-89076BA9253A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADAE4CF-5060-4438-8569-89076BA9253A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADAE4CF-5060-4438-8569-89076BA9253A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADAE4CF-5060-4438-8569-89076BA9253A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4ADAE4CF-5060-4438-8569-89076BA9253A} = {EADB5A84-9060-4677-AA94-596ABD58BE82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75D0D08D-8AC2-431B-A475-06723B07C2E5}

@@ -1,0 +1,15 @@
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\bin\Debug\net6.0\LinqProject.exe
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\bin\Debug\net6.0\LinqProject.deps.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\bin\Debug\net6.0\LinqProject.runtimeconfig.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\bin\Debug\net6.0\LinqProject.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\bin\Debug\net6.0\LinqProject.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\LinqProject.csproj.AssemblyReference.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\LinqProject.AssemblyInfoInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\LinqProject.AssemblyInfo.cs
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\LinqProject.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\refint\LinqProject.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\LinqProject.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\LinqProject.genruntimeconfig.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\LinqProject\obj\Debug\net6.0\ref\LinqProject.dll

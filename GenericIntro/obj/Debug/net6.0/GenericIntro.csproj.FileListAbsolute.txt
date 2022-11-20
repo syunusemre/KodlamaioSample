@@ -1,0 +1,15 @@
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericIntro.exe
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericIntro.deps.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericIntro.runtimeconfig.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericIntro.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\bin\Debug\net6.0\GenericIntro.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericIntro.csproj.AssemblyReference.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericIntro.AssemblyInfoInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericIntro.AssemblyInfo.cs
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericIntro.csproj.CoreCompileInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericIntro.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\refint\GenericIntro.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericIntro.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\GenericIntro.genruntimeconfig.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GenericIntro\obj\Debug\net6.0\ref\GenericIntro.dll

@@ -1,0 +1,15 @@
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\bin\Debug\net6.0\GameProjects.exe
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\bin\Debug\net6.0\GameProjects.deps.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\bin\Debug\net6.0\GameProjects.runtimeconfig.json
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\bin\Debug\net6.0\GameProjects.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\bin\Debug\net6.0\GameProjects.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\GameProjects.csproj.AssemblyReference.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\GameProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\GameProjects.AssemblyInfoInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\GameProjects.AssemblyInfo.cs
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\GameProjects.csproj.CoreCompileInputs.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\GameProjects.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\refint\GameProjects.dll
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\GameProjects.pdb
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\GameProjects.genruntimeconfig.cache
+C:\c#Froms\Kodlamaio\kodlamaioSample\GameProjects\obj\Debug\net6.0\ref\GameProjects.dll
