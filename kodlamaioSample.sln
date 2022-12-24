@@ -7,6 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kodlamaioSample", "kodlamai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{E93A6034-60EC-491B-B729-60A05650652C}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericIntro", "GenericIntro\GenericIntro.csproj", "{D978D612-3F3F-4870-B446-5FF602EF2C01}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjects", "GameProjects\GameProjects.csproj", "{897219CC-689F-4D66-8CC5-AAA382455794}"
@@ -14,6 +15,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Konu Anlatımı", "Konu Anlatımı", "{EADB5A84-9060-4677-AA94-596ABD58BE82}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{4ADAE4CF-5060-4438-8569-89076BA9253A}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericIntro", "GenericIntro\GenericIntro.csproj", "{D978D612-3F3F-4870-B446-5FF602EF2C01}"
+>>>>>>> 64514a8413a1f04ff6c9b47b8d183e85c230a563
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,7 @@ Global
 		{D978D612-3F3F-4870-B446-5FF602EF2C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D978D612-3F3F-4870-B446-5FF602EF2C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D978D612-3F3F-4870-B446-5FF602EF2C01}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{897219CC-689F-4D66-8CC5-AAA382455794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{897219CC-689F-4D66-8CC5-AAA382455794}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{897219CC-689F-4D66-8CC5-AAA382455794}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -41,6 +46,8 @@ Global
 		{4ADAE4CF-5060-4438-8569-89076BA9253A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ADAE4CF-5060-4438-8569-89076BA9253A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ADAE4CF-5060-4438-8569-89076BA9253A}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 64514a8413a1f04ff6c9b47b8d183e85c230a563
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
